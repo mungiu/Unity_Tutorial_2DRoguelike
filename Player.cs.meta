@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c4490b2f17db19644aebd3a8cba4487b
+timeCreated: 1511621989
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - foodText: {instanceID: 0}
+  - moveSound1: {fileID: 8300000, guid: 4c2332bc8245b474dad63074059bb755, type: 3}
+  - moveSound2: {instanceID: 0}
+  - eatSound1: {instanceID: 0}
+  - eatSound2: {instanceID: 0}
+  - drinkSound1: {instanceID: 0}
+  - drinkSound2: {instanceID: 0}
+  - gameOverSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
